@@ -1,4 +1,4 @@
-mybatis-spring
-==============
+:cn:mybatis-spring
+--------------
 
-mybatis-spring入门
+:feet:[mybatis-springDoc](https://github.com/0532/mybatis-spring/wiki)
